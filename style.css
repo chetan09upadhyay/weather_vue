@@ -17,6 +17,7 @@ body{
     background-position: center;
 }
 
+ 
 
 .container{
     position: relative;
@@ -44,6 +45,7 @@ body{
     position: absolute;
     left:10px;
     font-size: 28px;
+    cursor: pointer;
 
 }
 
